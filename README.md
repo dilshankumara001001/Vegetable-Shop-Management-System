@@ -93,19 +93,6 @@ Perfect as a **final-year project**, **university assignment**, or a **real-worl
 
 ---
 
-## 🖼 Screenshots
-
-> _Add your own screenshots here. Suggested sizes: 1280×720._
-
-| Dashboard | Sales & Billing |
-|:-:|:-:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Sales](docs/screenshots/sales.png) |
-
-| Invoice | Reports |
-|:-:|:-:|
-| ![Invoice](docs/screenshots/invoice.png) | ![Reports](docs/screenshots/reports.png) |
-
----
 
 ## 🛠 Tech Stack
 
