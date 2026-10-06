@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥦 Vegie Pro
+ Vegie Pro
 
 ### Vegetable Shop Management System
 
